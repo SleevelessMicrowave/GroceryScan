@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/GroceryScanner/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/GroceryScanner/build" />
+      <excludeFolder url="file://$MODULE_DIR$/erics_grocery_scan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/erics_grocery_scan/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
